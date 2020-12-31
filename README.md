@@ -5,6 +5,7 @@
 第 11 屆 iT 邦幫忙鐵人賽 
 AI & Data AI+Line 系列
 [Line機器人辨識數字](https://ithelp.ithome.com.tw/users/20120156/ironman/2335)
+感謝原文章作者 [ianfan0704](https://www.facebook.com/ianfan0704) 協助完成專案
 
 # 備註：
 > 因教學為 2019 年撰寫，且 line-bot-sdk 常常更新
